@@ -3,6 +3,7 @@ Java Native Access Bindings for SimpleBLE
 
 # Requirements
 Java Native Access Libraries: jna-platform, jna (https://github.com/java-native-access/jna/tree/master)
+
 SimpleBLE .dylib, .dll or .so files (in /SimpleBLE/build/install/lib/): https://github.com/OpenBluetoothToolbox/SimpleBLE/releases
 
 Tested with:
