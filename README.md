@@ -1,2 +1,2 @@
 # simpleBLEJava
-Java JNR-FFI Bindings for SimpleBLE
+Java Native Access Bindings for SimpleBLE
